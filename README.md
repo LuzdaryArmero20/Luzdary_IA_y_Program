@@ -7,6 +7,6 @@ Página de conceptos e investigaciones a cerca de la Programación y la Intelige
 
 
 <p align="center">
-<img src="./Logos/Arboles.jpg" height="500">
+<img src="./Progm/Hola.jpeg" height="500">
 </p>
 
