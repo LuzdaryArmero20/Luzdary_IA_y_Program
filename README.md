@@ -5,8 +5,8 @@ Página de conceptos e investigaciones a cerca de la Programación y la Intelige
 
 *<h1 align="center">Inteligencia Artificial y Programación</h1>*
 
-<p align="center">
-<img src="./Trabajo/Arbolito.jpg" height="100">
-</p>
 
+<p align="center">
+<img src="./Logos/Arboles.jpg" height="500">
+</p>
 
