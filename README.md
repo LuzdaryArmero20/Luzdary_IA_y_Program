@@ -6,7 +6,7 @@ Página de conceptos e investigaciones a cerca de la Programación y la Intelige
 <h1 align="center">Inteligencia Artificial y Programación</h1>
 
 <p align="center">
-<img src="./Imágenes/Imagen_IA.jpg" height="500">
+<img src="./logos/IA.jpg" height="500">
 </p>
 
 
