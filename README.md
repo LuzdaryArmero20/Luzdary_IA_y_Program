@@ -17,3 +17,4 @@ Página de conceptos e investigaciones a cerca de la Programación y la Intelige
 
 ## La Inteligencía Artificial (IA): 
 ### El concepto de la IA ha sido muy confuso y complicado al momento de que las personas lo puedan definir; porque se ha mantenido una idealización de lo que es la IA. Sin embargo, si conocemos más de cerca la capacidad y el desarrollo de está, podremos definirla correctamente. 
+La IA combina la informatica y los conjuntos de datos para permitir la solución de problemas; así englobando los subcampos del aprendizaje atónomo y profundo 
